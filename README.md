@@ -1,8 +1,8 @@
-# MAFF
+# ABB
 
-CFGS Desenrotllament d'Aplicacions Web
+CFGS Desarrollo de Aplicaciones Multiplataforma
 
-Entorns de Desenrotllament
+Entornos de Desarrollo
 
 ## Programa del joc de la vida
 
